@@ -1,6 +1,6 @@
 {% set name = "perl-test-harness" %}
-{% set version = "3.44" %}
-{% set sha256 = "7eb591ea6b499ece6745ff3e80e60cee669f0037f9ccbc4e4511425f593e5297" %}
+{% set version = "3.47" %}
+{% set sha256 = "bb31cd4aa90ad4e15f32b08476fb5123b4f19ed0cd28a3291242e8858bf986b5" %}
 
 package:
   name: {{ name }}
