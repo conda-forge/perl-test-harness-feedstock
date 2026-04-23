@@ -1,11 +1,11 @@
-About perl-test-harness
-=======================
+About perl-test-harness-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-test-harness-feedstock/blob/main/LICENSE.txt)
 
 Home: https://metacpan.org/dist/Test-Harness
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-test-harness-feedstock/blob/main/LICENSE.txt)
 
 Summary: Run Perl standard test scripts with statistics
 
